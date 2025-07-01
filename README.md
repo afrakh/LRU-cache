@@ -43,7 +43,7 @@ TECHNOLOGIES USED:
 - **sqlite3** (Database)
 
 
-HOW TO RUN<br>
+HOW TO RUN?<br>
 Option 1: Using Python Directly<br>
 python lru_cache.py<br><br>
 
