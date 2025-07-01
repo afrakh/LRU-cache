@@ -15,7 +15,7 @@ An LRU Cache (Least Recently Used) is a data structure that stores a fixed numbe
 - A **doubly linked list** to track usage order
 - A **dictionary** for O(1) lookup and updates
 
-KEY FEATURES:
+FEATURES OF THE PROJECT:
 - `get()` and `put()` operations with **O(1)** time complexity
 - Live updates and cache visualization through the GUI
 - 🧪 Testing Buttons
