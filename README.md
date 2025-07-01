@@ -18,7 +18,7 @@ An LRU Cache (Least Recently Used) is a data structure that stores a fixed numbe
 KEY FEATURES:
 - `get()` and `put()` operations with **O(1)** time complexity
 - Live updates and cache visualization through the GUI
-- Testing Buttons
+- 🧪 Testing Buttons
   - **Fill Cache with 50 Keys**
   - **Retrieve Odd Keys**
   - **Put Primes from 1 to 100**
@@ -27,10 +27,11 @@ KEY FEATURES:
 - 🌙 Theme Support:
   - Toggle between **Light Mode** and **Dark Mode**
   - Maintains accessibility, readability, and consistent styling
-- Automatically loads cache from a local SQLite database (`cache.db`)
-- Option to save the current cache state
-- Option to clear/reset the database
-- Tracks:
+- 💾 Persistent Storage (SQLite)
+  - Automatically loads cache from a local SQLite database (`cache.db`)
+  - Option to save the current cache state
+  - Option to clear/reset the database
+- 📊 Performance Monitoring and tracking
   - Total accesses
   - Hits and misses
   - Hit ratio and miss ratio
@@ -42,21 +43,21 @@ TECHNOLOGIES USED:
 - **sqlite3** (Database)
 
 
-HOW TO RUN
-Option 1: Using Python Directly
-python lru_cache.py
+HOW TO RUN<br>
+Option 1: Using Python Directly<br>
+python lru_cache.py<br><br>
 
-Option 2: Using Virtual Environment
-Create virtual environment using:
-python -m venv venv
+Option 2: Using Virtual Environment<br>
+Create virtual environment using:<br>
+python -m venv venv<br>
 
-Activate virtual environment by:
-venv\Scripts\activate  # On Windows
-source venv/bin/activate  # On macOS/Linux
+Activate virtual environment by:<br>
+venv\Scripts\activate  # On Windows<br>
+source venv/bin/activate  # On macOS/Linux<br><br>
 
-Run the app
-python lru_cache.py
+Run the app,<br>
+python lru_cache.py<br><br>
 
-Option 3: Run with IDEs or your preferred code editors
+Option 3: Run with IDEs or your preferred code editors<br>
 
   
