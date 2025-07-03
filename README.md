@@ -7,7 +7,7 @@ This project is an advanced implementation of an **LRU (Least Recently Used) Cac
 - Support for **light/dark themes**
 - And an efficient **O(1) time complexity** for `get()` and `put()` operations
 
-> Developed as an Open-Ended Lab project for the **Data Structures and Algorithms (CS-218)** course at **NED University**.
+> Developed as an Open-Ended Lab project for the **Data Structures and Algorithms (CS-218)** course.
 
 What is an LRU Cache?
 
